@@ -1,4 +1,4 @@
-FROM watawuuw/rust AS rust-builder
+FROM watawuwu/rust AS rust-builder
 ADD . .
 RUN make release
 
